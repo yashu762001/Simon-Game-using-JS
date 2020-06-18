@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-color: #011F3F;
+  background-color: lightcoral;
 }
 
 #level-title {
@@ -24,6 +24,7 @@ body {
   width: 200px;
   border: 10px solid black;
   border-radius: 20%;
+  cursor: pointer;
 }
 
 .game-over {
@@ -51,3 +52,5 @@ body {
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
+
+
